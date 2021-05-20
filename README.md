@@ -1,4 +1,4 @@
-<h1>Multi-scale Deep Nearest Neighbors, IJCNN 2021</h1>
+<h1>Multi-scale Deep Nearest Neighbors</h1>
 
 We propose a differentiable loss function for learning an embedding space by minimizing the upper bound of the leave-one-out classification error rate of 1-nearest neighbor
 classification error in the latent space. To evaluate the resulting space, in addition to the classification performance, we examine the problem of finding subclasses. In many applications, it is desired to detect unknown subclasses that might exist within known classes. For example, discovering subtypes of a known disease may help develop customized treatments. Analogous to the hierarchical clustering, subclasses might exist on different scales. The proposed method provides a mechanism to target subclasses in different scales.
@@ -8,6 +8,7 @@ classification error in the latent space. To evaluate the resulting space, in ad
 </p>
 
 
+Cite: A. Chauhan, O. Davoudi M. Komeili, "Multi-scale Deep Nearest Neighbors", IEEE International Joint Conference on Neural Networks, 2021.
 <h2>Instructions</h2>
 
 1. Build the docker file
