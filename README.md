@@ -7,6 +7,8 @@ classification error in the latent space. To evaluate the resulting space, in ad
   <img src="./MsDNN.jpg" width="450" title="MsDNN">
 </p>
 
+
+<h1>Instructions</h1>
 1. Build the docker file
 docker build -t msdnn .
 
