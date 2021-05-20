@@ -8,7 +8,8 @@ classification error in the latent space. To evaluate the resulting space, in ad
 </p>
 
 
-<h1>Instructions</h1>
+<h2>Instructions</h2>
+
 1. Build the docker file
 docker build -t msdnn .
 
